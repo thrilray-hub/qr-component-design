@@ -16,7 +16,9 @@
 }
 .card header img{
     border-radius: 20px;
+    border: none;
     margin: 0%;
+    cursor: pointer;
 }
 .card div h1{
     font-size: 3rem;
